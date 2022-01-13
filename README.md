@@ -10,3 +10,4 @@
 
 ##Employee-management-crud-application-using-laravel-vuejs-and-vuex
 
+<a href="https://imgur.com/b22F1bc"><img src="https://i.imgur.com/b22F1bc.gif" title="source: imgur.com" /></a>
